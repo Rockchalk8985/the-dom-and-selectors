@@ -12,8 +12,9 @@ ________________________________________________________________*/
 
 // Your code here
 
+console.log(document.getElementById("box-two").style.opacity = "9");
 
-
+console.log(document.getElementById("box-nine").style.opacity = "9");
 
 
 /*________________________________________________________________
@@ -25,6 +26,8 @@ string containing whatever text you want.
 ________________________________________________________________*/
 
 // Your code here 
+
+console.log(document.getElementById("hidden-message").innerHTML = "Jake why you hiding?");
 
 
 
